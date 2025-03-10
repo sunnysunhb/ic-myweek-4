@@ -41,7 +41,6 @@ namespace ApplicationTier.Classes
             var store = await context.Stores.Include(s => s.Sales)
                 .ThenInclude(p => p.Product).FirstOrDefaultAsync(s => s.Id == StoreId);
 
-
             return Mapper(store);
 
         }

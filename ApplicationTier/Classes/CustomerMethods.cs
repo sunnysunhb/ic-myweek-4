@@ -1,4 +1,5 @@
-﻿using IndustryConnect_Week_Microservices.Models;
+﻿
+using IndustryConnect_Week_Microservices.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -43,6 +44,27 @@ namespace ApplicationTier.Classes
             return Mapper(customer);
         }
 
+        public async Task<CustomerDto> RemoveCustomer(int CustomerId)
+        {
+            var context = new IndustryConnectWeek2Context();
+
+            var customer = await context.Customers.FirstOrDefaultAsync(c => c.Id == CustomerId);
+
+            if (customer == null)
+            {
+                return null;
+            }
+
+            var CustomerDto = Mapper(customer);
+
+            context.Remove(customer);
+
+            await context.SaveChangesAsync();
+
+            return CustomerDto;
+
+
+        }
 
         private static CustomerDto Mapper(Customer? customer)
         {
@@ -64,6 +86,7 @@ namespace ApplicationTier.Classes
             }
            
         }
+
 
     }
 }
