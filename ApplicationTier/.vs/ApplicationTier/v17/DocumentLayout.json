@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\applicationtier\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|solutionrelative:dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB232496-5044-466C-AE7C-2EC509646AA6}|..\\SaleApi\\SaleApi.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\saleapi\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\applicationtier\\classes\\salemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|solutionrelative:classes\\salemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB232496-5044-466C-AE7C-2EC509646AA6}|..\\SaleApi\\SaleApi.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\saleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260CC7C-92BD-CFFC-8B15-72DE44B605A5}|..\\CustomerApi\\CustomerApi.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\customerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\applicationtier\\interfaces\\isalemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|solutionrelative:interfaces\\isalemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\applicationtier\\interfaces\\icustomermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|solutionrelative:interfaces\\icustomermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A260CC7C-92BD-CFFC-8B15-72DE44B605A5}|..\\CustomerApi\\CustomerApi.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\customerapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB232496-5044-466C-AE7C-2EC509646AA6}|..\\SaleApi\\SaleApi.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\saleapi\\saleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\applicationtier\\classes\\customermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D1FCF6-C341-462A-C2FE-42E4538F4148}|ApplicationTier.csproj|solutionrelative:classes\\customermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC8944D-440C-8D2C-5C1C-0A56FE3B6FC2}|..\\IndustryConnect_Week_Microservices\\IndustryConnect_Week_Microservices.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\industryconnect_week_microservices\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC8944D-440C-8D2C-5C1C-0A56FE3B6FC2}|..\\IndustryConnect_Week_Microservices\\IndustryConnect_Week_Microservices.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\industryconnect_week_microservices\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC8944D-440C-8D2C-5C1C-0A56FE3B6FC2}|..\\IndustryConnect_Week_Microservices\\IndustryConnect_Week_Microservices.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\industryconnect_week_microservices\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0900BFDE-48FD-E96A-C447-0CAAFFF59144}|..\\UserInterfaceTier\\UserInterfaceTier.csproj|c:\\users\\sunny\\onedrive\\ic\\w4d12\\ic-myweek-4\\userinterfacetier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SaleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\Program.cs",
+              "RelativeToolTip": "..\\SaleApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:53:55.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerMethods.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICustomerMethods.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Interfaces\\ICustomerMethods.cs",
+              "RelativeToolTip": "Interfaces\\ICustomerMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:51:02.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "..\\SaleApi\\Controllers\\SaleController.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "..\\SaleApi\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:33:02.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerMethods.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeDocumentMoniker": "Classes\\CustomerMethods.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Classes\\CustomerMethods.cs",
+              "RelativeToolTip": "Classes\\CustomerMethods.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:16:38.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaleMethods.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeDocumentMoniker": "Classes\\SaleMethods.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Classes\\SaleMethods.cs",
+              "RelativeToolTip": "Classes\\SaleMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:53:11.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISaleMethods.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISaleMethods.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Interfaces\\ISaleMethods.cs",
+              "RelativeToolTip": "Interfaces\\ISaleMethods.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:50:39.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\CustomerApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:04:15.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\ApplicationTier\\Dtos\\SaleDto.cs",
+              "RelativeToolTip": "Dtos\\SaleDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:42:36.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "..\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "RelativeToolTip": "..\\IndustryConnect_Week_Microservices\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:34:34.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "..\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "RelativeToolTip": "..\\IndustryConnect_Week_Microservices\\Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:35:21.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\CustomerApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomerApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\CustomerApi\\Program.cs",
+              "RelativeToolTip": "..\\CustomerApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:41:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaleApi",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\SaleApi.csproj",
+              "RelativeDocumentMoniker": "..\\SaleApi\\SaleApi.csproj",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\SaleApi\\SaleApi.csproj",
+              "RelativeToolTip": "..\\SaleApi\\SaleApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T00:34:30.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "RelativeToolTip": "..\\IndustryConnect_Week_Microservices\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:35:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\UserInterfaceTier\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UserInterfaceTier\\Program.cs",
+              "ToolTip": "C:\\Users\\sunny\\OneDrive\\IC\\W4D12\\ic-myweek-4\\UserInterfaceTier\\Program.cs",
+              "RelativeToolTip": "..\\UserInterfaceTier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:58:30.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
